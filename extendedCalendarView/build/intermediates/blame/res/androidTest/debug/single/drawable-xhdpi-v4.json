@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/navigation_next_item.png",
+        "source": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/navigation_next_item.png"
+    },
+    {
+        "merged": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/day_bg.9.png",
+        "source": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/day_bg.9.png"
+    },
+    {
+        "merged": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/navigation_previous_item.png",
+        "source": "/Users/yaoshiyun97/Desktop/TestApplication/extendedCalendarView/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/navigation_previous_item.png"
+    }
+]
